@@ -12,7 +12,20 @@ return_visualization(company, signals=signals) # show the final return
 show_final_return_results(signals=signals) # show the numerical final return
 show_sharpe_ratio_results(signals=signals) # show the sharpe ratio
 ```
+3. Here is the in-sample result:
 
-![Bollinger Bands](Bollinger Bands.png)
-![Trading Signals](trading signals.png)
+![Bollinger Bands](Bollinger_Bands.png)
+
+![Trading Signals](trading_signals.png)
+
 ![Comparsion](comparsion.png)
+
+```
+Benchmark: 25728.38208716729
+Return: 60170.609970535246
+Return with Bollinger Bands: 40968.3929034226
+
+Benchmark sharpe ratio: 0.7156191640228604
+basic sharpe ratio: 3.3007405603773408
+Bollinger Bands sharpe ratio: 2.3924102734554764
+```
