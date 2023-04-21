@@ -14,11 +14,11 @@ show_sharpe_ratio_results(signals=signals) # show the sharpe ratio
 ```
 3. Here is the in-sample result:
 
-![Bollinger Bands](Bollinger_Bands.png)
+![Bollinger Bands](images/Bollinger_Bands.png)
 
-![Trading Signals](trading_signals.png)
+![Trading Signals](images/trading_signals.png)
 
-![Comparsion](comparsion.png)
+![Comparsion](images/comparsion.png)
 
 ```
 Benchmark: 25728.38208716729
