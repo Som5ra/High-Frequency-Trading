@@ -12,3 +12,7 @@ return_visualization(company, signals=signals) # show the final return
 show_final_return_results(signals=signals) # show the numerical final return
 show_sharpe_ratio_results(signals=signals) # show the sharpe ratio
 ```
+
+![Bollinger Bands](Bollinger Bands.png)
+![Trading Signals](trading signals.png)
+![Comparsion](comparsion.png)
