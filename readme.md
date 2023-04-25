@@ -16,9 +16,9 @@ show_sharpe_ratio_results(signals=signals) # show the sharpe ratio
 
 ![In Sample Bollinger Bands](images/in-sample/Bollinger_Bands.png)
 
-![In Sample Trading Signals](images/in-sample/trading_signals.png)
+![In Sample Trading Signals](images/in-sample/Trading_Signals.png)
 
-![In Sample Comparsion](images/in-sample/comparsion.png)
+![In Sample Comparsion](images/in-sample/comparison.png)
 
 ```
 Benchmark: 24618.48821624455
@@ -32,9 +32,9 @@ Bollinger Bands sharpe ratio: 2.6406772257658715
 
 ![Out Sample Bollinger Bands](images/out-sample/Bollinger_Bands.png)
 
-![Out Sample Trading Signals](images/out-sample/trading_signals.png)
+![Out Sample Trading Signals](images/out-sample/Trading_Signals.png)
 
-![Out Sample Comparsion](images/out-sample/comparsion.png)
+![Out Sample Comparsion](images/out-sample/comparison.png)
 
 ```
 Benchmark: 11205.01934913777
