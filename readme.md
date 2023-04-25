@@ -14,18 +14,34 @@ show_sharpe_ratio_results(signals=signals) # show the sharpe ratio
 ```
 3. Here is the in-sample result:
 
-![Bollinger Bands](images/Bollinger_Bands.png)
+![In Sample Bollinger Bands](images/in-sample/Bollinger_Bands.png)
 
-![Trading Signals](images/trading_signals.png)
+![In Sample Trading Signals](images/in-sample/trading_signals.png)
 
-![Comparsion](images/comparsion.png)
+![In Sample Comparsion](images/in-sample/comparsion.png)
 
 ```
-Benchmark: 25728.38208716729
-Return: 60170.609970535246
-Return with Bollinger Bands: 40968.3929034226
+Benchmark: 24618.48821624455
+Return: 48196.056722856236
+Return with Bollinger Bands: 34503.23349582836
 
-Benchmark sharpe ratio: 0.7156191640228604
-basic sharpe ratio: 3.3007405603773408
-Bollinger Bands sharpe ratio: 2.3924102734554764
+Benchmark sharpe ratio: 0.9248691209442815
+basic sharpe ratio: 3.599122094371577
+Bollinger Bands sharpe ratio: 2.6406772257658715
+```
+
+![Out Sample Bollinger Bands](images/out-sample/Bollinger_Bands.png)
+
+![Out Sample Trading Signals](images/out-sample/trading_signals.png)
+
+![Out Sample Comparsion](images/out-sample/comparsion.png)
+
+```
+Benchmark: 11205.01934913777
+Return: 22252.96509964892
+Return with Bollinger Bands: 16743.57125956416
+
+Benchmark sharpe ratio: 0.11624238341599169
+basic sharpe ratio: 3.6424935181767077
+Bollinger Bands sharpe ratio: 2.4722410802149977
 ```
