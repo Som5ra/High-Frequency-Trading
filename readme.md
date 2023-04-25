@@ -30,6 +30,8 @@ basic sharpe ratio: 3.599122094371577
 Bollinger Bands sharpe ratio: 2.6406772257658715
 ```
 
+4. Here is the out-sample result:
+
 ![Out Sample Bollinger Bands](images/out-sample/Bollinger_Bands.png)
 
 ![Out Sample Trading Signals](images/out-sample/Trading_Signals.png)
