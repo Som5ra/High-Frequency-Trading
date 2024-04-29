@@ -1,5 +1,4 @@
-### Buy and sell strategy: MA-20
-### Risk Control Method: Bollinger Bands
+### strategy: MA-20, Bollinger Bands
 
 1. Import libs and stock info files
 2. Run this to get results (use AAPL as an example)
